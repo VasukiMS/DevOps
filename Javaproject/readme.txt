@@ -1,0 +1,1 @@
+This is just a simple java file that is written to check if Jenkins will work whenever there's a change to the reporsitory.
